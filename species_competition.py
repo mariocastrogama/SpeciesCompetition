@@ -6,7 +6,7 @@
 % Biodiversity of plankton by species oscillations and chaos.
 % Letters to Nature 402(November)407-410. 
 
-Created on Sun Oct 17 22:20:25 2021
+Created on Sun Oct 27 19:20:25 2021
 
 @author: Castro-Gama Mario
 """
