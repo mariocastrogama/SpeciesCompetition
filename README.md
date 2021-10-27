@@ -5,4 +5,4 @@ https://www.nature.com/articles/46540
 
 It is tested for the case chaotic case of 12 species and 5 resources of Figure 4
 
-https://github.com/mariocastrogama/SpeciesCompetition/blob/main/Species_12_Resources_05.bmp
+[Figure 4 of article](Figure 04.png)
